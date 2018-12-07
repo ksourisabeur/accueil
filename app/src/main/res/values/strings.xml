@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Accueil</string>
+    <string name="car">Rent Car</string>
+    <string name="agn"> Nos Agences</string>
+    <string name="Reservation">Reservation</string>
+    <string name="ry">Réserver votre voiture</string>
+    <string name="nous">Qui Somme Nous </string>
+    <string name="per"> Avenue Hbib Bourgiba     Tunis    8000</string>
+    <string name="cnt">Sidentifier</string>
+    <string name="search">Search</string>
+    <string name="depart">Lieu du depart</string>
+    <string name="retour">Lieu du retour</string>
+    <string name="dtdepart">Date et heure du depart</string>
+    <string name="dtretour">Date et heure du retour</string>
+    <string name="mn">hh : mm</string>
+    <string name="am">jj/mm/aaaa</string>
+    <string name="sd">Send</string>
+    <string name="pro">A propos</string>
+    <string name="text">Grace à Notre site Rent Car
+vous allez en quelques clics
+réserver une voiture de
+location.Bien évidemment nous
+vousproposons un service haut
+de gamme. Trouver des
+offres spécialeset
+profitez des promotions</string>
+    <string name="title_activity_apropos">Apropos</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="connect">connect</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="create_account">create_account</string>
+    <string name="image_content_description">image_content_description</string>
+    <string name="email_or_password_empty">string</string>
+    <string name="email_format_error">string</string>
+    <string name="MESSAGE_SUPP">message</string>
+    <string name="hint_email">hint_email</string>
+    <string name="hint_password">hint_password</string>
+    <string name="nos_agence">Nos Agence</string>
+</resources>

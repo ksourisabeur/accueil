@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419582483688",
+    "firebase_url": "https://accueil-87415.firebaseio.com",
+    "project_id": "accueil-87415",
+    "storage_bucket": "accueil-87415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419582483688:android:a8c0147e8777ca33",
+        "android_client_info": {
+          "package_name": "com.example.aya.accueil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419582483688-2q0bufd0952ln7fo8eqld3526ujqqj6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aya.accueil",
+            "certificate_hash": "71b6c9c78f27afadc77c7ab969ff55d0a6c937e0"
+          }
+        },
+        {
+          "client_id": "419582483688-0qoulhsmq08nopnblrg65pnjrc5keaqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCju3llaYuBfBUDGIIzLkz6jGIDU3q2ay4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419582483688-0qoulhsmq08nopnblrg65pnjrc5keaqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
